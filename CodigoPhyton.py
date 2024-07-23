@@ -1,6 +1,6 @@
-nombre="Carlos"
+nombre="Ruben"
 apellido="Cárdenas"
 alias='OenSerket'
 
-saludo="Hola, como estás "+ nombre + " " + apellido + ", alias en el juego como:" + alias+ "?"
+saludo="Hola, como estás?"+ nombre + " " + apellido + ", alias del juego mcoc como:" + alias+ " Marvel"
 print(saludo)
